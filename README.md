@@ -1,4 +1,4 @@
-# Projet dans les grands angles
+# Projet dans les grandes ~~angles~~ lignes
 ## Le nom :
 Le nom vient de l’entreprise qui a “créé” les emojis, NTT DoCoMo. Le vrai créateur des emojis est [Shigetaka Kurita][begin].
 Normalement le nom n’est pas déjà pris. Et aucun risque de copyright infringement. C'est donc une reference et un ~~mauvais~~ jeu de mot.
