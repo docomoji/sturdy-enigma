@@ -3,7 +3,7 @@
 Le nom vient de l’entreprise qui a “créé” les emojis, NTT DoCoMo. Le vrai créateur des emojis est [Shigetaka Kurita][begin].
 Normalement le nom n’est pas déjà pris. Et aucun risque de copyright infringement. C'est donc une reference et un ~~mauvais~~ jeu de mot.
 
-La page d’accueil du site devrait avoir un petit clin d’oeil aux emojis originaux. Surement des petites animations en fond, tres simples et discretes, mais presentes neanmoins.
+La page d’accueil du site devrait avoir un petit clin d’oeil aux [emojis originaux][original]. Surement des petites animations en fond, tres simples et discretes, mais presentes neanmoins.
 
 ## Speech Principal :
 Faire deviner des mots, concepts ou expressions en utilisant seulement des emojis.
