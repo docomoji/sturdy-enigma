@@ -25,25 +25,25 @@ Exemple :
 
 ## Features principales :
 #### Jeu solo
-- Jouer contre une IA ou celle-ci ne nous fait que deviner les mots/expressions
-- Avoir une liste d'emojis+mots+indices stockes en BE pour prevoir le mode de jeu solo
+- [ ] Jouer contre une IA ou celle-ci ne nous fait que deviner les mots/expressions
+- [ ] Avoir une liste d'emojis+mots+indices stockes en BE pour prevoir le mode de jeu solo
 
 #### Multijoueur
-- création et gestion des salles.
-- connecter les utilisateurs ensembles.
+- [ ] création et gestion des salles.
+- [ ] connecter les utilisateurs ensembles.
 
 #### Catégories
-- catégoriser les différents emojis.
-- créer des catégories pour les parties.
-- empêcher l’utilisation de certains emojis dans certaines catégories.
+- [ ] catégoriser les différents emojis.
+- [ ] créer des catégories pour les parties.
+- [ ] empêcher l’utilisation de certains emojis dans certaines catégories.
 
 #### Parties
-- instaurer un systeme de difficulté (5 emojis pour facile, 3 pour difficile)
-- timer (Proposition & pour le guess)
-- quand il reste la moitié du temps affichage de l’indice.
-- entrée de l’indice et de la proposition en début de round.
-- plus de points gagner si guess plus rapide.
-- si c’est vraiment la merde, on affiche un indice textuel.
+- [ ] instaurer un systeme de difficulté (5 emojis pour facile, 3 pour difficile)
+- [ ] timer (Proposition & pour le guess)
+- [ ] quand il reste la moitié du temps affichage de l’indice.
+- [ ] entrée de l’indice et de la proposition en début de round.
+- [ ] plus de points gagner si guess plus rapide.
+- [ ] si c’est vraiment la merde, on affiche un indice textuel.
 
 
 [begin]: https://edition.cnn.com/style/article/emoji-shigetaka-kurita-standards-manual/index.html
