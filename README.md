@@ -14,20 +14,20 @@ Exemple :
 
 ## Technologies utilisées
 #### Frontend
-- [svelte][svelte]
+- [hyperapp][hyperapp]
 - [milligram][milligram]
 - [socket.io][socketiof]
 
 #### Backend
 - [express][express]
 - [socket.io][socketiob]
-- [mongodb][mongodb] | [mysql][mysql]
-
-## Contraintes lié aux JPOs :
-- prévoir un mode solo pour contrer la limite de jouabilite seule (ne serait ce qu'un peu)
-- deadline le 28/02 → maquette jouable d’ici le 01/02 !
+- [mongodb][mongodb]
 
 ## Features principales :
+#### Jeu solo
+- Jouer contre une IA ou celle-ci ne nous fait que deviner les mots/expressions
+- Avoir une liste d'emojis+mots+indices stockes en BE pour prevoir le mode de jeu solo
+
 #### Multijoueur
 - création et gestion des salles.
 - connecter les utilisateurs ensembles.
@@ -48,10 +48,9 @@ Exemple :
 
 [begin]: https://edition.cnn.com/style/article/emoji-shigetaka-kurita-standards-manual/index.html
 [original]: https://forum.nativesintech.org/uploads/default/original/1X/5c36611c9fb977d170721cd4c71817e6531e3502.png
-[svelte]: https://svelte.dev/
+[hyperapp]: https://github.com/jorgebucaran/hyperapp
 [milligram]: https://milligram.io/
 [express]: https://expressjs.com/
 [socketiof]: https://socket.io/docs/v3/client-api/
 [socketiob]: https://socket.io/docs/v3/server-api/
 [mongodb]: https://mongodb.com/fr
-[mysql]: https://mysql.com/fr/
